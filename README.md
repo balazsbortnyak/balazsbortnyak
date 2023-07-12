@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balazs Bortnyak</h1>
-<h3 align="center">A professional developer from Hungary 🇭🇺</h3>
+<h3 align="center">An avarage developer from Hungary 🇭🇺</h3>
 
 - 🔭 I’m currently working on [MerolX](https://merolx.com/)
 
